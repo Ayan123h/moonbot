@@ -28,6 +28,9 @@ Auto get maxium points each game        |        ✅        |
 | **MORE_ACCURATE_CAPTCHA_SOLVER**         | Option to use more accurate solver (it will slower) (default: False)                                                                                |
 | **DELAY_EACH_ACCOUNT**         | SLEEP between each account (default: [15,25])                                                                                |
 | **USE_PROXY_FROM_FILE**    | Whether to use a proxy from the bot/config/proxies.txt file (True / False)                                    |
+
+
+
 ##run recaptcha bypass
 start  bot with option 3 !
 
