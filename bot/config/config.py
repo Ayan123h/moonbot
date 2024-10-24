@@ -15,7 +15,7 @@ class Settings(BaseSettings):
 
     MORE_ACCURATE_CAPTCHA_SOLVER: bool = False
 
-    USE_PROXY_FROM_FILE: bool = False
+    USE_PROXY_FROM_FILE: bool = True
 
 
 settings = Settings()
